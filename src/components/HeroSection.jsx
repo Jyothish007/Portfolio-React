@@ -14,7 +14,7 @@ export const HeroSection = () => {
                         <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">P S</span>
                     </h1>
                     <p className="text-lg md:text-xl text-muted-foreground mx-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        Build And Deploy a Modern Personal Portfolio with ReactJS and TailwindCSS | React Beginner Tutorial
+                    Tech Enthusiast | Crafting Scalable and Maintainable Web Solutions
                     </p>
                     <button className="pt-4 opacity-0 animate-fade-in-delay-4">
                         <a href="#projects" className="cosmic-button">

@@ -56,10 +56,10 @@ import {
                   <div>
                     <h4 className="font-medium"> Email</h4>
                     <a
-                      href="mailto:hello@gmail.com"
+                      href="mailto:jyothish6521@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      hello@gmail.com
+                      jyothish6521[at]gmail.com
                     </a>
                   </div>
                 </div>
@@ -70,10 +70,10 @@ import {
                   <div>
                     <h4 className="font-medium"> Phone</h4>
                     <a
-                      href="tel:+11234567890"
+                      href="tel:+91 7994295274"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      +1 (123) 456-7890
+                      +91 79942 95274
                     </a>
                   </div>
                 </div>
@@ -84,7 +84,7 @@ import {
                   <div>
                     <h4 className="font-medium"> Location</h4>
                     <a className="text-muted-foreground hover:text-primary transition-colors">
-                      Vancouver, BC, Canada
+                      Kochi, Kerala, India
                     </a>
                   </div>
                 </div>
@@ -93,10 +93,10 @@ import {
               <div className="pt-8">
                 <h4 className="font-medium mb-4"> Connect With Me</h4>
                 <div className="flex space-x-4 justify-center">
-                  <a href="#" target="_blank">
+                  <a href="https://www.linkedin.com/in/jyothish-p-s-220313243/" target="_blank">
                     <Linkedin />
                   </a>
-                  <a href="#" target="_blank">
+                  {/* <a href="#" target="_blank">
                     <Twitter />
                   </a>
                   <a href="#" target="_blank">
@@ -104,7 +104,7 @@ import {
                   </a>
                   <a href="#" target="_blank">
                     <Twitch />
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
@@ -130,7 +130,7 @@ import {
                     name="name"
                     required
                     className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
-                    placeholder="Pedro Machado..."
+                    placeholder="Jyothish P S..."
                   />
                 </div>
   
@@ -148,7 +148,7 @@ import {
                     name="email"
                     required
                     className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
-                    placeholder="john@gmail.com"
+                    placeholder="jyothish@gmail.com"
                   />
                 </div>
   
